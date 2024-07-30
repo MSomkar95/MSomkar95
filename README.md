@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MSomkar95
 - 👀 I’m interested in analysing and visualizing data to gather data insights which could power the businesses.
+- 👀 I’m adept at translating data insights to non-technical stakeholders.
 - 👀 Also check my Data Visualization portfolio @ ... [https://my.novypro.com/ms-omkar] 
 - 🌱 I’m currently learning ...Tableau and Python 
 - 📫 How to reach me ...Email: [msomkar195@gmail.com] 
