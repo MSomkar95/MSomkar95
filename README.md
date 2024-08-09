@@ -8,13 +8,13 @@
 
 🚀 Passionate about Business Intelligence: Which drove me to implementing data analysis to improve sales--> Learning Power BI, SQL and DAX the hard way--> Taking up freelancing, offering to build      business intelligence reports using Power BI.    
 
-💬 Personal mission: To help businesses with informed data-decision making.
+💬 PERSONAL MISSION: To help businesses with informed data-decision making.
 
-👀 Data Visualization Portfolio: [https://my.novypro.com/ms-omkar]
+👀 [Data Visualization Portfolio](https://my.novypro.com/ms-omkar)
 
-👀 Blog: [https://medium.com/@msomkar195]
+👀 [Data Blog](https://medium.com/@msomkar195)
 
-📫 Email me @[msomkar195@gmail.com] 
+📫 EMAIL: msomkar195@gmail.com 
 <!---
 MSomkar95/MSomkar95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
