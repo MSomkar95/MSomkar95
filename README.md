@@ -1,6 +1,7 @@
 👋 Hi, I’m @MSomkar95 
 
 💼 A freelance data visualization consultant just like a mercenary ready for the hunt 😆 (glad you believed me 👏)
+
 🕴️ Former Associate Sales Analyst at Hawkins
 
 🎓 Master's Degree in Business Administration (MBA)
