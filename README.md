@@ -1,6 +1,8 @@
 👋 Hi, I’m @MSomkar95 
 
-💼 A freelance data visualization consultant just like a mercenary ready for the hunt 😆 (glad you believed me 👏)
+💬 PERSONAL MISSION: To help businesses with informed data-decision making.
+
+💼 A freelance data visualization consultant just like a mercenary ready for the hunt 😆 (glad you believed me 👏).
 
 🕴️ Former Associate Sales Analyst at Hawkins
 
@@ -9,8 +11,6 @@
 👀 I’m good at building interactive dashboards using Power BI, building SQL queries and translating data-driven insights to non-technical stakeholders and technical stakeholders.
 
 🚀 Passionate about Business Intelligence: Which drove me to implementing data analysis to improve sales--> Learning Power BI, SQL and DAX the hard way--> Taking up freelancing, offering to build      business intelligence reports using Power BI.    
-
-💬 PERSONAL MISSION: To help businesses with informed data-decision making.
 
 👀 [Data Visualization Portfolio](https://my.novypro.com/ms-omkar)
 
