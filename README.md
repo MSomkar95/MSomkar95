@@ -1,6 +1,7 @@
 👋 Hi, I’m @MSomkar95 
 
-💼 Former Associate Sales Analyst at Hawkins
+💼 A freelance data visualization consultant just like a mercenary ready for the hunt 😆 (glad you believed me 👏)
+🕴️ Former Associate Sales Analyst at Hawkins
 
 🎓 Master's Degree in Business Administration (MBA)
 
@@ -14,7 +15,7 @@
 
 👀 [Data Blog](https://medium.com/@msomkar195)
 
-📫 EMAIL: msomkar195@gmail.com 
+📫 EMAIL for collaborations: msomkar195@gmail.com 
 <!---
 MSomkar95/MSomkar95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
