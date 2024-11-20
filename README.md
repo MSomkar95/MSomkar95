@@ -2,7 +2,7 @@
 
 💬 PERSONAL MISSION: To help businesses with informed data-decision making.
 
-💼 A freelance data visualization consultant just like a mercenary ready for the hunt 😆 (glad you believed me 👏).
+💼 A freelance data visualization consultant currently offerinng services in data visualization using MS Power BI.
 
 🕴️ Former Associate Sales Analyst at Hawkins
 
