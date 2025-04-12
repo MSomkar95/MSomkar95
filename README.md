@@ -1,8 +1,9 @@
 👋 Hi, I’m @MSomkar95 
+💬 Business Intelligence Analyst | Power BI Specialist | SQL | Excel | Currently futhering my skills in Tableau too.
 
 💬 PERSONAL MISSION: To help businesses with informed data-decision making.
 
-💼 A freelance data visualization consultant currently offerinng services in data visualization using MS Power BI.
+💼 A freelance data visualization consultant currently offerinng services in Data Analysis Data Visulization and Business Intelligence Consultancy services.
 
 🕴️ Former Associate Sales Analyst at Hawkins
 
@@ -10,7 +11,7 @@
 
 👀 I’m good at building interactive dashboards using Power BI, building SQL queries and translating data-driven insights to non-technical stakeholders and technical stakeholders.
 
-🚀 Passionate about Business Intelligence: Which drove me to implementing data analysis to improve sales--> Learning Power BI, SQL and DAX the hard way--> Taking up freelancing, offering to build      business intelligence reports using Power BI.    
+🚀 Passionate about Business Intelligence: Which drove me to implementing data analysis to improve sales--> Learning Power BI, SQL and DAX the hard way--> Taking up freelancing, offering my expertise in solving some rea life business problems using my data analysis skills.    
 
 👀 [**Portfolio**](https://www.datascienceportfol.io/dataInsightsOmkar)
 
