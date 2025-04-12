@@ -12,9 +12,9 @@
 
 🚀 Passionate about Business Intelligence: Which drove me to implementing data analysis to improve sales--> Learning Power BI, SQL and DAX the hard way--> Taking up freelancing, offering to build      business intelligence reports using Power BI.    
 
-👀 **[Portfolio]**(https://www.datascienceportfol.io/dataInsightsOmkar)
+👀 [**Portfolio**](https://www.datascienceportfol.io/dataInsightsOmkar)
 
-👀 **[Data Blog]**(https://medium.com/@msomkar195)
+👀 [**Data Blog**](https://medium.com/@msomkar195)
 
 📫 EMAIL for collaborations: msomkar195@gmail.com 
 <!---
